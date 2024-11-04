@@ -1,7 +1,9 @@
 # VBA Z5 Contact Checker
 
-The purpose of this project was to check a master file for missing dunning contacts (Z5) and set a relevant e-mail address, if available.<br>
+The purpose of this project was to check a master file for missing dunning contacts (Z5) and set a relevant e-mail address, when available.<br>
 VBA code was needed here, because the excel file contained a considerable amount of customer accounts which were multiplied, due to different contact types.
+
+## Quick overview:
 
 What the code does is the following:
 1. Look through each customer account one by one
