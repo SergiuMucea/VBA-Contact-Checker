@@ -25,4 +25,4 @@ As an example and for comparison, the first two customer accounts would have ext
 
 **Disclaimer!**<br>
 The code was written with the help of Microsoft Copilot, but without proper human guidance the AI would not have made this possible with just a copy-paste.<br>
-This would explain why in some places the code probably could have been cleaner and easier to read.
+This would explain why in some places the code probably could have been better designed.
